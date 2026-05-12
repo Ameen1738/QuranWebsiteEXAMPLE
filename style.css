@@ -1,0 +1,84 @@
+/* This styles the whole website */
+body{
+
+    margin: 0; /* Removes default browser spacing */
+
+    background-color: #071253; /* Dark blue background */
+}
+
+/* Styles all main headings */
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: antiquewhite;
+}
+
+/* Styles all sub headings */
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: antiquewhite;
+}
+
+/* Styles all paragraph writing */
+p{
+    color: antiquewhite;
+}
+
+/* Styles Arabic text only */
+#Arabic{
+    font-weight: bold;
+    color: rgb(109, 93, 0);
+}
+
+/* Styles main academy heading only */
+#MainH {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: black;
+
+    /* Adds a dark blue shadow behind the text */
+        text-shadow: 
+        2px 2px 5px  rgba(122, 114, 0, 0.943),    /* Bottom-right */
+       -2px 2px 5px  rgba(122, 114, 0, 0.943),  /* Bottom-left */
+        2px -2px 5px rgba(122, 114, 0, 0.943),   /* Top-right */
+       -2px -2px 5px rgba(122, 114, 0, 0.943);   /* Top-left */
+}
+
+/* Styles the top header box */
+header{
+    background-color: lightblue;
+    border: 4px solid rgb(109, 93, 0);
+    border-radius: 10px;
+}
+
+/* Styles the bottom footer box */
+footer{
+    background-color: lightblue;
+    border: 4px solid rgb(109, 93, 0);
+    border-radius: 10px;
+}
+
+/* Styles email hyperlink in contact section */
+#EmailLink{
+    color: antiquewhite;
+    font-weight: bold;
+}
+
+/* Styles author email hyperlink in footer */
+#AuthorMail{
+    color: black;
+    font-weight: bold;
+}
+
+/* Styles navigation links */
+nav a{
+    color: black;
+    text-decoration: none;
+    margin: 15px;
+    font-weight: bold;
+}
+
+/* Adds spacing around every section */
+section{
+    margin: 20px;
+}

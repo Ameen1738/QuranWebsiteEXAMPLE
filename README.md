@@ -15,10 +15,7 @@ A responsive Quran-themed website built using HTML and CSS, designed with a clea
 ## Live Demo
 [View Website](https://ameen1738.github.io/QuranWebsiteEXAMPLE/)
 
-## Screenshots
 
-### Homepage
-![Homepage](images/homepage.png)
 
 ## Future Improvements
 - Audio recitation support

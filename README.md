@@ -10,7 +10,7 @@ A responsive Quran-themed website built using HTML and CSS
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript
+
 
 ## Live Demo
 [View Website](https://ameen1738.github.io/QuranWebsiteEXAMPLE/)
